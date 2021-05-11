@@ -1,0 +1,10 @@
+{
+	"name": "platformer",
+	"short_name": "platformer",
+	"description": "my game",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "landscape",
+	"background_color": "#ffffff",
+	"icons": []
+}
